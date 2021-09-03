@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Data Science & Data Engineer & Big Data
-🌱 I’m currently learning NoSQL Database
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Data Science & Data Engineer & Big Data
+🌱 I’m currently learning NoSQL Database
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahitisleyen&show_icons=true&theme=radical)
 
