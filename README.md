@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Data Science & Data Engineer & Big Data
 
 🌱 I’m currently learning NoSQL Database
-<a href="https://github.com/cahitisleyen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cahitisleyen&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 
 
