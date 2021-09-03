@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahitisleyen&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cahitisleyen&repo=github-readme-stats)](https://github.com/cahitisleyen/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahitisleyen&langs_count=8)](https://github.com/cahitisleyen/github-readme-stats)
 
