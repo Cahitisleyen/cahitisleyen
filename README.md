@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning NoSQL Database
 
+
+## Operating System & Tools
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://ubuntu.com/)
+[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
+
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
 ## 🔨 Languages and Tools:
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
