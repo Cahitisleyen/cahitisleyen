@@ -34,19 +34,15 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahitisleyen&show_icons=true&theme=radical)
+![Most Used Languages](https://raw.githubusercontent.com/cahitisleyen/github-stats-transparent/output/generated/languages.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahitisleyen&langs_count=8)](https://github.com/cahitisleyen/github-readme-stats)
 
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-</a>
+
 
 <br>
 
