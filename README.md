@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
 [![Scrapy](https://img.shields.io/badge/-Scrapy-green?style=flat-square&logo=Scrapy&logoColor=ffffff)](https://scrapy.org/)
+[![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat-square&logo=Selenium&logoColor=ffffff)](https://www.selenium.dev/)
 
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
