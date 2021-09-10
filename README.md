@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning NoSQL Database
 
+## Contact
+[![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cahit-isleyen/)
+
 
 ## Operating System & Tools
 
