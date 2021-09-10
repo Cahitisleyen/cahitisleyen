@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Scala](https://img.shields.io/badge/-Scala-3776AB?style=flat-square&logo=scala&logoColor=ffffff)](https://www.scala-lang.org/)
+[![Scala](https://img.shields.io/badge/-Scala-red?style=flat-square&logo=scala&logoColor=ffffff)](https://www.scala-lang.org/)
 
 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
