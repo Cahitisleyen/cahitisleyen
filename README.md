@@ -22,18 +22,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-<br>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahitisleyen&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cahitisleyen&langs_count=8)](https://github.com/cahitisleyen/github-readme-stats)
-
-<br>
-
-
-
-
-
-<br>
 
