@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
-## 🔨 Languages and Tools:
+## Languages and Tools:
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Scala](https://img.shields.io/badge/-Scala-3776AB?style=flat-square&logo=scala&logoColor=ffffff)](https://www.scala-lang.org/)
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 
-## 🔨 Google Cloud Technologies:
+## Google Cloud Technologies:
 [![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
 [![Google](https://img.shields.io/badge/DataFlow-red?style=flat-square&logo=DataFlow&logoColor=262577)](https://cloud.google.com/dataflow)
 [![Google](https://img.shields.io/badge/Compute-yellow?style=flat-square&logo=Compute&logoColor=262577)](https://cloud.google.com/compute)
