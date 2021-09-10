@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-[![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=Postgresql&logoColor=ffffff)](https://www.postgresql.org/)
+[![Postgresql](https://img.shields.io/badge/-Postgresql-darkblue?style=flat-square&logo=Postgresql&logoColor=ffffff)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![Cassandra](https://img.shields.io/badge/-Cassandra-DC382D?style=flat-square&logo=Cassandra&logoColor=ffffff)](https://cassandra.apache.org)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
