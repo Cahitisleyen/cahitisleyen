@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 ## Visualization Framework and Technologies
-[![Tableau](https://img.shields.io/badge/Tableau-blue?style=flat-square&logo=Tableau&logoColor=262577)](https://www.tableau.com/)
-[![Plotly](https://img.shields.io/badge/Plotly-blue?style=flat-square&logo=Plotly&logoColor=262577)](https://plotly.com/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat-square&logo=Seaborn&logoColor=262577)](https://seaborn.pydata.org/)
+[![Tableau](https://img.shields.io/badge/Tableau-white?style=flat-square&logo=Tableau&logoColor=262577)](https://www.tableau.com/)
+[![Plotly](https://img.shields.io/badge/Plotly-lightblue?style=flat-square&logo=Plotly&logoColor=262577)](https://plotly.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=flat-square&logo=Matplotlib&logoColor=262577)](https://matplotlib.org/)
 
 ## Google Cloud Technologies:
 [![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
