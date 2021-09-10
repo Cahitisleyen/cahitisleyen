@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## Contact
 [![Linkedin](https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cahit-isleyen/)
 [![Website](https://img.shields.io/badge/Website-3776AB?style=flat-square&logo=Website&logoColor=ffffff)](https://www.pythonearth.com/)
+[![Wordpress](https://img.shields.io/badge/Wordpress-3776AB?style=flat-square&logo=Wordpress&logoColor=ffffff)](https://cahitisleyen.wordpress.com/)
 
 
 
