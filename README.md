@@ -50,6 +50,11 @@ Here are some ideas to get you started:
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 
+## 🔨 Google Cloud Technologies:
+[![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cahitisleyen&show_icons=true&theme=radical)
 
