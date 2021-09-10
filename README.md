@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows&logoColor=262577)](https://www.microsoft.com/tr-tr/)
 
-[![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=Jupyter)](https://jupyter.org/)
+[![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-white?style=flat-square&logo=Jupyter)](https://jupyter.org/)
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
