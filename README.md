@@ -52,8 +52,9 @@ Here are some ideas to get you started:
 
 ## 🔨 Google Cloud Technologies:
 [![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
-[![Google](https://img.shields.io/badge/DataFlow-blue?style=flat-square&logo=DataFlow&logoColor=262577)](https://cloud.google.com/dataflow)
-[![Google](https://img.shields.io/badge/Compute-blue?style=flat-square&logo=Compute&logoColor=262577)](https://cloud.google.com/compute)
+[![Google](https://img.shields.io/badge/DataFlow-red?style=flat-square&logo=DataFlow&logoColor=262577)](https://cloud.google.com/dataflow)
+[![Google](https://img.shields.io/badge/Compute-yellow?style=flat-square&logo=Compute&logoColor=262577)](https://cloud.google.com/compute)
+[![Google](https://img.shields.io/badge/Storage-white?style=flat-square&logo=Storage&logoColor=262577)](https://cloud.google.com/storage)
 
 
 
