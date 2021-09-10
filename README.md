@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![Cassandra](https://img.shields.io/badge/-Cassandra-DC382D?style=flat-square&logo=Cassandra&logoColor=ffffff)](https://cassandra.apache.org/_/index.html)
+[![Cassandra](https://img.shields.io/badge/-Cassandra-DC382D?style=flat-square&logo=Cassandra&logoColor=ffffff)](https://cassandra.apache.org)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
 [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
