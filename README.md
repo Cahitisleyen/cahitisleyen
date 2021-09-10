@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Operating System & Tools
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-orange-292e33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=Windows&logoColor=262577)](https://www.microsoft.com/tr-tr/)
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-white?style=flat-square&logo=Jupyter)](https://jupyter.org/)
