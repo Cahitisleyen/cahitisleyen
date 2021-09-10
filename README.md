@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 ## Visualization Framework and Technologies
 [![Tableau](https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=Tableau&logoColor=262577)](https://www.tableau.com/)
 [![Plotly](https://img.shields.io/badge/Plotly-lightblue?style=flat-square&logo=Plotly&logoColor=262577)](https://plotly.com/)
-[![Matplotlib](https://img.shields.io/badge/yellow-blue?style=flat-square&logo=Matplotlib&logoColor=262577)](https://matplotlib.org/)
 
 ## Google Cloud Technologies:
 [![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
