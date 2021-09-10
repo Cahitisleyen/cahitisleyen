@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 🌱 I’m currently learning NoSQL Database
 
 ## Contact
-[![Linkedin](https://img.shields.io/badge/Linkedin-orange?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cahit-isleyen/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cahit-isleyen/)
+[![Website](https://img.shields.io/badge/Website-3776AB?style=flat-square&logo=Website&logoColor=ffffff)](https://www.pythonearth.com/)
+
 
 
 ## Operating System & Tools
