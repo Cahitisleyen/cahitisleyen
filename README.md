@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Operating System & Tools
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-292e33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
