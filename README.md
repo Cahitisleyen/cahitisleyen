@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Data Science & Data Engineer & Big Data
 
-🌱 I’m currently learning NoSQL Database
+🌱 I’m currently learning NoSQL Databases and Apache Spark
 
 ## Contact
 [![Linkedin](https://img.shields.io/badge/Linkedin-3776AB?style=flat-square&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/in/cahit-isleyen/)
