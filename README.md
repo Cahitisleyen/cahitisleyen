@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
 [![Spark](https://img.shields.io/badge/-Spark-FF6600?style=flat-square&logo=Apache-Spark&logoColor=ffffff)](https://spark.apache.org/)
-[![Nifi](https://img.shields.io/badge/-Nifi-lightblue?style=flat-square&logo=Apache-Nifi&logoColor=ffffff)](https://nifi.apache.org/)
+[![Nifi](https://img.shields.io/badge/-Nifi-lightblue?style=flat-square&logo=Apache%20Nifi&logoColor=ffffff)](https://nifi.apache.org/)
 [![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=ffffff)](https://kafka.apache.org/)
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
