@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [![Cassandra](https://img.shields.io/badge/-Cassandra-white?style=flat-square&logo=Cassandra&logoColor=ffffff)](https://cassandra.apache.org)
 [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
--[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
+[![Spark](https://img.shields.io/badge/-Spark-FF6600?style=flat-square&logo=Spark&logoColor=ffffff)](https://spark.apache.org/)
 [![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=ffffff)](https://kafka.apache.org/) -->
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
