@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=cahitisleyen)
+
 ### Hi there 👋
 
 <!--
@@ -13,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=cahitisleyen)
 
 
 🔭 I’m currently working on Data Science & Data Engineer & Big Data
