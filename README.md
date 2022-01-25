@@ -64,6 +64,7 @@ Here are some ideas to get you started:
 
 [![Tableau](https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=Tableau&logoColor=262577)](https://www.tableau.com/)
 [![Plotly](https://img.shields.io/badge/Plotly-lightblue?style=flat-square&logo=Plotly&logoColor=262577)](https://plotly.com/)
+[![Power BI](https://img.shields.io/badge/Powerbi-lightorange?style=flat-square&logo=Pwerbi&logoColor=262577)](https://powerbi.microsoft.com/tr-tr/)
 
 [![Google](https://img.shields.io/badge/BigQuery-blue?style=flat-square&logo=BigQuery&logoColor=262577)](https://cloud.google.com/bigquery)
 [![Google](https://img.shields.io/badge/DataFlow-red?style=flat-square&logo=DataFlow&logoColor=262577)](https://cloud.google.com/dataflow)
