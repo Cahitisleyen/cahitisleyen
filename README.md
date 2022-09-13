@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![Postgresql](https://img.shields.io/badge/-Postgresql-darkblue?style=flat-square&logo=Postgresql&logoColor=ffffff)](https://www.postgresql.org/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![Cassandra](https://img.shields.io/badge/-Cassandra-white?style=flat-square&logo=Cassandra&logoColor=ffffff)](https://cassandra.apache.org)
-[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+
 
 [![Apache Spark](https://img.shields.io/badge/Spark-FF6600?style=flat-square&logo=Apache-Spark&logoColor=ffffff)](https://spark.apache.org/)
 [![Apache Nifi](https://img.shields.io/badge/Nifi-2496ED?style=flat-square&logo=Apache-Nifi&logoColor=ffffff)](https://nifi.apache.org/)
@@ -62,7 +60,6 @@ Here are some ideas to get you started:
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
-[![Tableau](https://img.shields.io/badge/Tableau-orange?style=flat-square&logo=Tableau&logoColor=262577)](https://www.tableau.com/)
 [![Plotly](https://img.shields.io/badge/Plotly-lightblue?style=flat-square&logo=Plotly&logoColor=262577)](https://plotly.com/)
 [![Power BI](https://img.shields.io/badge/Powerbi-lightorange?style=flat-square&logo=Pwerbi&logoColor=262577)](https://powerbi.microsoft.com/tr-tr/)
 
